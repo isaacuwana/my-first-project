@@ -12,12 +12,6 @@ This project was created as part of a Git and GitHub assignment. It involves ini
 6. **Added a `goals.txt` file** listing my programming goals.  
 7. **Committed and pushed the new file** to GitHub.  
 
-## **Programming Goals 🎯**  
-- Improve my Git and GitHub workflow.  
-- Master Python and data science tools.  
-- Work on AI-driven projects in healthcare, energy, and agriculture.  
-- Deploy AI models for real-world applications.  
-
 ## **How to Clone This Repository**  
 To clone this repository, run the following command:  
 ```sh
