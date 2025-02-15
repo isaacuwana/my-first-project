@@ -10,7 +10,7 @@ Tasks completed:
 ✅ Downloaded and explored the dataset.  
 ✅ Practiced navigation and basic Excel functions (SUM, AVERAGE, COUNT).  
 ✅ Formatted data and created tables.  
-✅ Saved the modified file as `Intro_Excel_YourName.xlsx`.  
+✅ Saved the modified file as `Intro_Excel_IsaacAdeyeye.xlsx`.  
 ✅ Pushed the modified file to GitHub.  
 
 ### **2️⃣ Git & GitHub Workflow 🖥️**  
