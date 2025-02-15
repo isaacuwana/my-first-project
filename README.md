@@ -31,5 +31,5 @@ git clone <https://github.com/isaacuwana/my-first-project.git>
 ## **Contributing**  
 This is a personal project for learning purposes. However, feel free to fork the repo and practice making contributions.  
 
-## **License**  
+## **License ©️**  
 This project is for educational purposes only.  
