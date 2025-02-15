@@ -22,7 +22,7 @@ Tasks completed:
 ✅ Created and pushed a `goals.txt` file listing my programming goals.  
  
 
-## **How to Clone This Repository**  
+## **How to Clone This Repository 🌀**  
 To clone this repository, run the following command:  
 ```sh
 git clone <https://github.com/isaacuwana/my-first-project.git>
