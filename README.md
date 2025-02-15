@@ -1,16 +1,26 @@
 # **My First Git Project 🚀**  
 
 ## **Project Overview**  
-This project was created as part of a Git and GitHub assignment. It involves initializing a Git repository, adding and committing files, pushing changes to GitHub, and practicing repository cloning and modification.  
+This repository contains my assignments for learning **Excel**, **Git**, and **GitHub**. The tasks covered working with Excel for data analysis and version control using Git and GitHub.  
 
-## **Project Steps**  
-1. **Initialized a Git repository** in a folder named `project`.  
-2. **Downloaded an Excel sheet** inside the folder.  
-3. **Added and committed the file** to the repository.  
-4. **Pushed the repository to GitHub** under the name `my-first-project`.  
-5. **Cloned the repository** to another folder for practice.  
-6. **Added a `goals.txt` file** listing my programming goals.  
-7. **Committed and pushed the new file** to GitHub.  
+## **Assignment Sections**  
+
+### **1️⃣ Introduction to Excel 📊**  
+Tasks completed:  
+✅ Downloaded and explored the dataset.  
+✅ Practiced navigation and basic Excel functions (SUM, AVERAGE, COUNT).  
+✅ Formatted data and created tables.  
+✅ Saved the modified file as `Intro_Excel_YourName.xlsx`.  
+✅ Pushed the modified file to GitHub.  
+
+### **2️⃣ Git & GitHub Workflow 🖥️**  
+Tasks completed:  
+✅ Initialized a Git repository.  
+✅ Downloaded and added an Excel sheet to the repository.  
+✅ Committed and pushed files to GitHub.  
+✅ Cloned the repository and modified files.  
+✅ Created and pushed a `goals.txt` file listing my programming goals.  
+ 
 
 ## **How to Clone This Repository**  
 To clone this repository, run the following command:  
@@ -19,7 +29,7 @@ git clone <https://github.com/isaacuwana/my-first-project.git>
 ```
 
 ## **Contributing**  
-This is a personal project for learning Git and GitHub. However, feel free to fork the repo and practice making contributions.  
+This is a personal project for learning purposes. However, feel free to fork the repo and practice making contributions.  
 
 ## **License**  
 This project is for educational purposes only.  
